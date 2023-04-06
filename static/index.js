@@ -212,11 +212,11 @@ function drawBoxes(objects) {
 
 
 var questions = [
-        "1.Tell me about Yourself?",
-        "2.Explain your project?",
-        "3.Explain any concept in Python?",
-        "4.Why Should we hire You?",
-        "5.What is your salary expectations?"
+        "Tell me about Yourself?",
+        "Explain your project?",
+        "Explain any concept in Python?",
+        "Why Should we hire You?",
+        "What is your salary expectations?"
       ];
 
       function generateQuestion() {
@@ -239,16 +239,16 @@ var questions = [
 		});
 
 var codingQuestions = [
-        "1.Write a code to Check if a Number is Positive and Negative in Python?",
-        "2.Write a code to Check Whether or Not the Number is a Palindrome in Python Language?",
-        "3.Write Python program for Factorial of a Number?",
-        "4.Write a code to Check whether or not the number is Perfect Number in Python?",
-        "5.Write a Python program to find HCF of Two Numbers?",
-        "6.Write a Python program to find Prime Numbers between 1 to100.?",
-        "7.Write a Python program to Reversing a Number using Recursion in Python?",
-        "8.Write a Python program to check whether a number is a Strong Number or not?",
-        "9.Write a Python program to find Fibonacci series up to n?",
-        "10.Write a code to Check Whether the Number is Harshad or not using Python?"
+        "Write a code to Check if a Number is Positive and Negative in Python?",
+        "Write a code to Check Whether or Not the Number is a Palindrome in Python Language?",
+        "Write Python program for Factorial of a Number?",
+        "Write a code to Check whether or not the number is Perfect Number in Python?",
+        "Write a Python program to find HCF of Two Numbers?",
+        "Write a Python program to find Prime Numbers between 1 to100.?",
+        "Write a Python program to Reversing a Number using Recursion in Python?",
+        "Write a Python program to check whether a number is a Strong Number or not?",
+        "Write a Python program to find Fibonacci series up to n?",
+        "Write a code to Check Whether the Number is Harshad or not using Python?"
       ];
 
       function generateQues() {
